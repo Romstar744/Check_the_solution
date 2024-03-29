@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.starostin.check_the_solution"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.starostin.check_the_solution"
